@@ -15,10 +15,8 @@ A análise dos dados foi realizada utilizando a biblioteca pandas para a manipul
 3. Gerando o grafico de linha para analise
 4. Salvando esse grafico em png
 
-Bibliotecas utilizadas
- . Pandas
- . Seaborn
- . Matplotlib
-
-
+## Bibliotecas utilizadas
+- Pandas
+- Seaborn
+- Matplotlib
 
